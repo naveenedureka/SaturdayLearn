@@ -4,6 +4,7 @@ import com.singleton.Singleton;
 
 public class SingletonDemo {
 
+
 	public static void main(String[] args) {
  //Demo d=new Demo();
 		Singleton s1=Singleton.createSingletonObject();
